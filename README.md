@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanan</h1>
-<h3 align="center">A passionate full-stack developer from Norway</h3>
+<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Norway</h3>
 
 - 🔭 I’m currently working on **Applitrack**
 
